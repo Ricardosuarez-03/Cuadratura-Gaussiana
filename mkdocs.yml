@@ -4,7 +4,6 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
 extra_javascript:
- extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js
 theme:
   name: material
